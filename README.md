@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Shreyam Kundu
 
-I’m a 21-year-old developer passionate about building things that solve real-world problems and create real impact.  
-I enjoy working in teams where I can learn, grow, and bring ideas to life.  Always exploring new tech and building fun projects, I’m constantly looking to improve.
+I’m a 21-year-old developer passionate about building things  
+that solve real-world problems and create impact.
+
+I enjoy working in teams where I can learn, grow, and bring ideas to life.  
+Always exploring new tech and building fun projects, I’m constantly looking to improve.
 
 Currently exploring:  
 **Backend Systems · Agentic Workflows · Generative AI**
@@ -19,7 +22,7 @@ Always learning. Always experimenting.
 ## 🤝 Open to Opportunities
 
 I'm currently open to **full-time roles**, **internships**, and **collaborations**.  
-Always happy to connect, contribute, and build meaningful ideas together.
+Would love to connect, contribute, and build impactful products and ideas together.
 
 ---
 
